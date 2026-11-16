@@ -1,6 +1,5 @@
-Jogo criado em base de ser jogo brasileiro, com bases de coisas do brasil, carros sendo celta, uno, palio, fusca, carros bem brasileiros mesmo
-Com obstáculos sendo o temido Detran jogando multa
-Contendo Motoboys do ifood como obstáculos jogando a mochila de entrega
-Com dois mapas de corridas sendo uma na orla do mar e outro no sertão
-Tendo Modo duo para jogar com amigo pra competir
-E muitas coisas que vc precisa descobrir rsrsrs
+Um jogo de corrida 100% inspirado na cultura e no caos do Brasil! Assuma o volante de lendas das ruas como Celta, Uno, Palio e Fusca em disputas frenéticas por dois cenários icônicos: a Orla do Mar e o Sertão. Mas fique atento: você terá que desviar de blitz do temido Detran atirando multas e de motoboys do iFood arremessando mochilas de entrega pelo caminho. Chame um amigo para competir no Modo Duo e descubra dezenas de outras surpresas escondidas pelas pistas!
+
+////////////////////////////////////////////////////////////////////////////////////
+
+A racing game 100% inspired by Brazilian culture and everyday chaos! Get behind the wheel of true street legends like the Celta, Uno, Palio, and Beetle in frantic races across two iconic settings: the Beachfront Promenade and the Outback (Sertão). Stay sharp—you’ll have to dodge the dreaded DMV (Detran) launching traffic tickets and delivery riders hurling food bags across the road. Challenge a friend in Duo Mode and uncover dozens of other surprises hidden throughout the tracks!
